@@ -1,0 +1,48 @@
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.6
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1686613057838/work
+cycler==0.11.0
+Cython==0.29.36
+fire==0.5.0
+fonttools==4.40.0
+h5py==3.9.0
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==6.8.0
+importlib-resources==6.0.0
+kiwisolver==1.4.4
+llvmlite==0.40.1
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+numba==0.57.1
+numpy==1.23.0
+opencv-python==4.8.0.74
+packaging==23.1
+pandas==2.0.3
+Pillow==9.3.0
+protobuf==4.23.4
+pycocotools==2.0.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyparsing==3.0.9
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.8.2
+pytz==2023.3
+requests @ file:///croot/requests_1682607517574/work
+scipy==1.10.1
+six==1.16.0
+tensorboardX==2.6.1
+termcolor==2.3.0
+torch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
+tqdm==4.65.0
+typing_extensions @ file:///croot/typing_extensions_1686601443660/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work
+zipp==3.16.0
